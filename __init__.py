@@ -21,7 +21,7 @@
 bl_info = {
     "name": "NodeCustomBuilder",
     "author": "Kalle-Samuli Riihikoski (haikalle)",
-    "version": (0, 0, 60),
+    "version": (1, 0, 0),
     "blender": (2, 80, 0),
     "description": "Save/Load your custom node trees.",
     "warning": "",
